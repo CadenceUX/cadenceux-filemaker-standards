@@ -1,0 +1,19 @@
+{
+  "name": "cadenceux-filemaker-standards",
+  "displayName": "CadenceUX FileMaker Standards",
+  "version": "1.0.0",
+  "description": "CadenceUX FileMaker naming and design-pattern conventions as a Claris ADK standards pack: Domain: Action script names, dot-notation fields and table occurrences, the CadenceUX script header, error handling and JSON script results. A project applies them with adk standards use cadenceux.",
+  "author": {
+    "name": "Darrin Southern",
+    "url": "https://cadenceux.com.au"
+  },
+  "homepage": "https://github.com/CadenceUX/cadenceux-filemaker-standards",
+  "repository": "https://github.com/CadenceUX/cadenceux-filemaker-standards",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "filemaker",
+    "claris",
+    "adk",
+    "standards"
+  ]
+}
